@@ -1,0 +1,58 @@
+{
+  "@odata.context": "https://ia-searchh.search.windows.net/indexes('azureblob-index')/$metadata#docs(*)",
+  "@odata.count": 2,
+  "value": [
+    {
+      "@search.score": 1,
+      "content": "",
+      "metadata_storage_path": "aHR0cHM6Ly9zdHJhZmFlbGxhZmExNTEzODU3MDE0NTkuYmxvYi5jb3JlLndpbmRvd3MubmV0L2ltZy1vY3Ivbm90YWZpc2NhbC5qcGc1",
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [],
+      "language": "",
+      "translated_text": "",
+      "merged_content": "",
+      "text": [],
+      "layoutText": [],
+      "imageTags": [],
+      "imageCaption": []
+    },
+    {
+      "@search.score": 1,
+      "content": "\n",
+      "metadata_storage_path": "aHR0cHM6Ly9zdHJhZmFlbGxhZmExNTEzODU3MDE0NTkuYmxvYi5jb3JlLndpbmRvd3MubmV0L2ltZy1vY3IvY2FydGEuanBn0",
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [
+        "amigo Inesquecível",
+        "muitas pes- pessoas",
+        "muitas pessoas",
+        "memória",
+        "coração",
+        "vida",
+        "dia"
+      ],
+      "language": "pt",
+      "translated_text": " Unforgettable friend Throughout my life, many people have passed by me, day after day. But only a few of these people have remained forever in my memory. These people are said to be friends, and I will carry them forever in my heart Throughout my life, many people have passed by me, day \n",
+      "merged_content": " amigo Inesquecível Durante toda a minha vida, muitas pes- pessoas passaram por mim, dia após dia. Mas somente algumas dessas pessoas ficaram para sempre em minha memória. Essas pessoas são ditas amigas, e as levarei para sempre em meu coração Durante toda a minha vida, muitas pessoas passaram por mim, dia \n",
+      "text": [
+        "amigo Inesquecível Durante toda a minha vida, muitas pes- pessoas passaram por mim, dia após dia. Mas somente algumas dessas pessoas ficaram para sempre em minha memória. Essas pessoas são ditas amigas, e as levarei para sempre em meu coração Durante toda a minha vida, muitas pessoas passaram por mim, dia"
+      ],
+      "layoutText": [
+        "{\"language\":\"en\",\"text\":\"amigo Inesquecível Durante toda a minha vida, muitas pes- pessoas passaram por mim, dia após dia. Mas somente algumas dessas pessoas ficaram para sempre em minha memória. Essas pessoas são ditas amigas, e as levarei para sempre em meu coração Durante toda a minha vida, muitas pessoas passaram por mim, dia\",\"lines\":[{\"boundingBox\":[{\"x\":162,\"y\":94},{\"x\":403,\"y\":94},{\"x\":403,\"y\":133},{\"x\":162,\"y\":133}],\"text\":\"amigo Inesquecível\"},{\"boundingBox\":[{\"x\":93,\"y\":151},{\"x\":598,\"y\":150},{\"x\":598,\"y\":186},{\"x\":93,\"y\":189}],\"text\":\"Durante toda a minha vida, muitas pes-\"},{\"boundingBox\":[{\"x\":49,\"y\":195},{\"x\":596,\"y\":183},{\"x\":597,\"y\":212},{\"x\":49,\"y\":221}],\"text\":\"pessoas passaram por mim, dia após dia. Mas\"},{\"boundingBox\":[{\"x\":47,\"y\":220},{\"x\":594,\"y\":220},{\"x\":594,\"y\":243},{\"x\":47,\"y\":244}],\"text\":\"somente algumas dessas pessoas ficaram para\"},{\"boundingBox\":[{\"x\":50,\"y\":248},{\"x\":588,\"y\":246},{\"x\":588,\"y\":271},{\"x\":50,\"y\":273}],\"text\":\"sempre em minha memória. Essas pessoas\"},{\"boundingBox\":[{\"x\":48,\"y\":276},{\"x\":596,\"y\":276},{\"x\":596,\"y\":299},{\"x\":48,\"y\":299}],\"text\":\"são ditas amigas, e as levarei para sempre em\"},{\"boundingBox\":[{\"x\":52,\"y\":306},{\"x\":182,\"y\":306},{\"x\":182,\"y\":328},{\"x\":52,\"y\":328}],\"text\":\"meu coração\"},{\"boundingBox\":[{\"x\":155,\"y\":352},{\"x\":498,\"y\":356},{\"x\":498,\"y\":385},{\"x\":155,\"y\":381}],\"text\":\"Durante toda a minha vida,\"},{\"boundingBox\":[{\"x\":92,\"y\":382},{\"x\":557,\"y\":385},{\"x\":557,\"y\":411},{\"x\":92,\"y\":409}],\"text\":\"muitas pessoas passaram por mim, dia\"}],\"words\":[{\"boundingBox\":[{\"x\":163,\"y\":95},{\"x\":250,\"y\":96},{\"x\":251,\"y\":134},{\"x\":163,\"y\":134}],\"text\":\"amigo\"},{\"boundingBox\":[{\"x\":261,\"y\":96},{\"x\":402,\"y\":97},{\"x\":402,\"y\":130},{\"x\":261,\"y\":134}],\"text\":\"Inesquecível\"},{\"boundingBox\":[{\"x\":99,\"y\":152},{\"x\":190,\"y\":155},{\"x\":191,\"y\":189},{\"x\":99,\"y\":189}],\"text\":\"Durante\"},{\"boundingBox\":[{\"x\":200,\"y\":155},{\"x\":259,\"y\":156},{\"x\":260,\"y\":189},{\"x\":200,\"y\":189}],\"text\":\"toda\"},{\"boundingBox\":[{\"x\":266,\"y\":156},{\"x\":287,\"y\":157},{\"x\":288,\"y\":189},{\"x\":266,\"y\":189}],\"text\":\"a\"},{\"boundingBox\":[{\"x\":305,\"y\":157},{\"x\":382,\"y\":157},{\"x\":383,\"y\":188},{\"x\":306,\"y\":189}],\"text\":\"minha\"},{\"boundingBox\":[{\"x\":388,\"y\":157},{\"x\":461,\"y\":155},{\"x\":462,\"y\":187},{\"x\":390,\"y\":188}],\"text\":\"vida,\"},{\"boundingBox\":[{\"x\":467,\"y\":155},{\"x\":544,\"y\":153},{\"x\":546,\"y\":186},{\"x\":469,\"y\":187}],\"text\":\"muitas\"},{\"boundingBox\":[{\"x\":551,\"y\":153},{\"x\":594,\"y\":151},{\"x\":596,\"y\":185},{\"x\":553,\"y\":186}],\"text\":\"pes-\"},{\"boundingBox\":[{\"x\":53,\"y\":198},{\"x\":125,\"y\":197},{\"x\":126,\"y\":221},{\"x\":54,\"y\":221}],\"text\":\"pessoas\"},{\"boundingBox\":[{\"x\":140,\"y\":196},{\"x\":239,\"y\":194},{\"x\":240,\"y\":219},{\"x\":140,\"y\":221}],\"text\":\"passaram\"},{\"boundingBox\":[{\"x\":260,\"y\":193},{\"x\":298,\"y\":192},{\"x\":299,\"y\":219},{\"x\":261,\"y\":219}],\"text\":\"por\"},{\"boundingBox\":[{\"x\":323,\"y\":192},{\"x\":380,\"y\":190},{\"x\":380,\"y\":217},{\"x\":323,\"y\":218}],\"text\":\"mim,\"},{\"boundingBox\":[{\"x\":385,\"y\":190},{\"x\":429,\"y\":189},{\"x\":430,\"y\":216},{\"x\":385,\"y\":217}],\"text\":\"dia\"},{\"boundingBox\":[{\"x\":440,\"y\":188},{\"x\":490,\"y\":187},{\"x\":491,\"y\":215},{\"x\":441,\"y\":216}],\"text\":\"após\"},{\"boundingBox\":[{\"x\":495,\"y\":187},{\"x\":550,\"y\":185},{\"x\":551,\"y\":214},{\"x\":496,\"y\":215}],\"text\":\"dia.\"},{\"boundingBox\":[{\"x\":561,\"y\":185},{\"x\":595,\"y\":184},{\"x\":595,\"y\":213},{\"x\":561,\"y\":214}],\"text\":\"Mas\"},{\"boundingBox\":[{\"x\":51,\"y\":221},{\"x\":136,\"y\":220},{\"x\":136,\"y\":244},{\"x\":51,\"y\":245}],\"text\":\"somente\"},{\"boundingBox\":[{\"x\":149,\"y\":220},{\"x\":252,\"y\":220},{\"x\":252,\"y\":244},{\"x\":148,\"y\":244}],\"text\":\"algumas\"},{\"boundingBox\":[{\"x\":271,\"y\":220},{\"x\":338,\"y\":220},{\"x\":338,\"y\":244},{\"x\":271,\"y\":244}],\"text\":\"dessas\"},{\"boundingBox\":[{\"x\":347,\"y\":220},{\"x\":423,\"y\":220},{\"x\":423,\"y\":243},{\"x\":347,\"y\":244}],\"text\":\"pessoas\"},{\"boundingBox\":[{\"x\":433,\"y\":220},{\"x\":530,\"y\":221},{\"x\":530,\"y\":243},{\"x\":433,\"y\":243}],\"text\":\"ficaram\"},{\"boundingBox\":[{\"x\":543,\"y\":221},{\"x\":591,\"y\":221},{\"x\":591,\"y\":243},{\"x\":543,\"y\":243}],\"text\":\"para\"},{\"boundingBox\":[{\"x\":50,\"y\":253},{\"x\":139,\"y\":250},{\"x\":139,\"y\":272},{\"x\":50,\"y\":273}],\"text\":\"sempre\"},{\"boundingBox\":[{\"x\":149,\"y\":250},{\"x\":179,\"y\":249},{\"x\":179,\"y\":272},{\"x\":149,\"y\":272}],\"text\":\"em\"},{\"boundingBox\":[{\"x\":216,\"y\":249},{\"x\":286,\"y\":248},{\"x\":286,\"y\":272},{\"x\":216,\"y\":272}],\"text\":\"minha\"},{\"boundingBox\":[{\"x\":320,\"y\":247},{\"x\":424,\"y\":247},{\"x\":424,\"y\":272},{\"x\":320,\"y\":272}],\"text\":\"memória.\"},{\"boundingBox\":[{\"x\":449,\"y\":247},{\"x\":507,\"y\":247},{\"x\":507,\"y\":272},{\"x\":449,\"y\":272}],\"text\":\"Essas\"},{\"boundingBox\":[{\"x\":519,\"y\":247},{\"x\":587,\"y\":248},{\"x\":587,\"y\":272},{\"x\":519,\"y\":272}],\"text\":\"pessoas\"},{\"boundingBox\":[{\"x\":55,\"y\":277},{\"x\":90,\"y\":277},{\"x\":90,\"y\":300},{\"x\":55,\"y\":300}],\"text\":\"são\"},{\"boundingBox\":[{\"x\":109,\"y\":277},{\"x\":160,\"y\":277},{\"x\":160,\"y\":300},{\"x\":109,\"y\":300}],\"text\":\"ditas\"},{\"boundingBox\":[{\"x\":175,\"y\":276},{\"x\":268,\"y\":276},{\"x\":268,\"y\":300},{\"x\":175,\"y\":300}],\"text\":\"amigas,\"},{\"boundingBox\":[{\"x\":280,\"y\":276},{\"x\":295,\"y\":276},{\"x\":295,\"y\":300},{\"x\":281,\"y\":300}],\"text\":\"e\"},{\"boundingBox\":[{\"x\":301,\"y\":276},{\"x\":328,\"y\":276},{\"x\":329,\"y\":300},{\"x\":302,\"y\":300}],\"text\":\"as\"},{\"boundingBox\":[{\"x\":341,\"y\":276},{\"x\":409,\"y\":276},{\"x\":410,\"y\":300},{\"x\":341,\"y\":300}],\"text\":\"levarei\"},{\"boundingBox\":[{\"x\":428,\"y\":277},{\"x\":479,\"y\":277},{\"x\":479,\"y\":300},{\"x\":428,\"y\":300}],\"text\":\"para\"},{\"boundingBox\":[{\"x\":491,\"y\":277},{\"x\":565,\"y\":278},{\"x\":566,\"y\":300},{\"x\":492,\"y\":300}],\"text\":\"sempre\"},{\"boundingBox\":[{\"x\":569,\"y\":278},{\"x\":593,\"y\":278},{\"x\":594,\"y\":300},{\"x\":570,\"y\":300}],\"text\":\"em\"},{\"boundingBox\":[{\"x\":63,\"y\":307},{\"x\":94,\"y\":307},{\"x\":93,\"y\":329},{\"x\":62,\"y\":329}],\"text\":\"meu\"},{\"boundingBox\":[{\"x\":117,\"y\":307},{\"x\":182,\"y\":308},{\"x\":182,\"y\":329},{\"x\":116,\"y\":329}],\"text\":\"coração\"},{\"boundingBox\":[{\"x\":156,\"y\":352},{\"x\":249,\"y\":353},{\"x\":250,\"y\":383},{\"x\":157,\"y\":382}],\"text\":\"Durante\"},{\"boundingBox\":[{\"x\":261,\"y\":353},{\"x\":317,\"y\":354},{\"x\":317,\"y\":383},{\"x\":261,\"y\":383}],\"text\":\"toda\"},{\"boundingBox\":[{\"x\":325,\"y\":354},{\"x\":343,\"y\":355},{\"x\":343,\"y\":383},{\"x\":325,\"y\":383}],\"text\":\"a\"},{\"boundingBox\":[{\"x\":358,\"y\":355},{\"x\":431,\"y\":357},{\"x\":431,\"y\":384},{\"x\":359,\"y\":383}],\"text\":\"minha\"},{\"boundingBox\":[{\"x\":437,\"y\":357},{\"x\":496,\"y\":358},{\"x\":496,\"y\":385},{\"x\":437,\"y\":384}],\"text\":\"vida,\"},{\"boundingBox\":[{\"x\":108,\"y\":383},{\"x\":176,\"y\":386},{\"x\":176,\"y\":409},{\"x\":107,\"y\":408}],\"text\":\"muitas\"},{\"boundingBox\":[{\"x\":189,\"y\":387},{\"x\":262,\"y\":389},{\"x\":262,\"y\":410},{\"x\":188,\"y\":409}],\"text\":\"pessoas\"},{\"boundingBox\":[{\"x\":278,\"y\":389},{\"x\":372,\"y\":390},{\"x\":372,\"y\":411},{\"x\":277,\"y\":410}],\"text\":\"passaram\"},{\"boundingBox\":[{\"x\":397,\"y\":390},{\"x\":432,\"y\":389},{\"x\":432,\"y\":411},{\"x\":396,\"y\":411}],\"text\":\"por\"},{\"boundingBox\":[{\"x\":456,\"y\":389},{\"x\":512,\"y\":387},{\"x\":512,\"y\":410},{\"x\":456,\"y\":411}],\"text\":\"mim,\"},{\"boundingBox\":[{\"x\":521,\"y\":387},{\"x\":557,\"y\":386},{\"x\":557,\"y\":410},{\"x\":522,\"y\":410}],\"text\":\"dia\"}]}"
+      ],
+      "imageTags": [
+        "text",
+        "handwriting",
+        "font",
+        "screenshot",
+        "document",
+        "number"
+      ],
+      "imageCaption": [
+        "{\"tags\":[\"text\",\"letter\"],\"captions\":[{\"text\":\"text, letter\",\"confidence\":0.9916614294052124}]}"
+      ]
+    }
+  ]
